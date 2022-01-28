@@ -1711,6 +1711,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03142)]
 *[Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/), [Stéphane Lathuilière](http://stelat.eu/), [Sergey Tulyakov](http://stulyakov.com/), [Elisa Ricci](http://elisaricci.eu/), [Nicu Sebe](http://disi.unitn.it/~sebe/).*<br>
 NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation)] [[Project](https://aliaksandrsiarohin.github.io/first-order-model-website)] [[Github](https://github.com/AliaksandrSiarohin/first-order-model)]
 
+**Motion Representations for Articulated Animation.**<br>
+*[Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/), [Oliver Woodford](https://ojwoodford.github.io/), [Jian Ren](https://alanspike.github.io/), [Menglei Chai](https://mlchai.com/), [Sergey Tulyakov](http://www.stulyakov.com/).*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Siarohin_Motion_Representations_for_Articulated_Animation_CVPR_2021_paper.pdf)] [[Project](https://snap-research.github.io/articulated-animation/)] [[Github](https://github.com/snap-research/articulated-animation)]
+
+
 **Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
